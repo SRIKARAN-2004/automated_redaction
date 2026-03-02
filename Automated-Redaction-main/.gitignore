@@ -46,3 +46,7 @@ next-env.d.ts
 /server/node_modules
 # clerk configuration (can include secrets)
 /.clerk/
+# ---- Automated Redaction Generated Files ----
+server/upload/
+public/redacted_document.pdf
+*.pdf
